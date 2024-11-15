@@ -1,0 +1,3 @@
+/home/{username}/.config/
+/home/{username}/.local/share/
+/etc/
